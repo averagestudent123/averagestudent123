@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @averagestudent123
-- 👀 I’m interested in Android Development, Game Development, AI & Machine Learning.
+- 👀 I’m interested in App Development, Game Development, AI & Machine Learning.
 - 🌱 I’m currently learning Java & Android Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
