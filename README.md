@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @averagestudent123
+- 👋 Hi, I’m @bhawanthedesigner
 - 👀 I’m interested in App Development, Game Development, AI & Machine Learning.
 - 🌱 I’m currently learning Java & Android Development.
 - 💞️ I’m looking to collaborate on ...
